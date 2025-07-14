@@ -1,0 +1,48 @@
+﻿@page
+@model CreateModel
+@{
+    ViewData["Title"] = "Create Movie";
+}
+
+<h1>Create a New Movie</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Movie.Title"></label>
+        <input asp-for="Movie.Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Select Directors</label>
+        @foreach (var director in Model.AllDirectors)
+        {
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" name="SelectedDirectors" value="@director.DirId" />
+                <label class="form-check-label">@director.Name</label>
+            </div>
+        }
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<hr />
+
+<h2>Available Directors</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Director ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var director in Model.AllDirectors)
+        {
+            <tr>
+                <td>@director.DirId</td>
+                <td>@director.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

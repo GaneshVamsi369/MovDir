@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ganesh.Ampajalapu\\source\\repos\\GH\\MovieDirectorWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\ganesh.ampajalapu\\source\\repos\\gh\\moviedirectorwebapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\ganesh.ampajalapu\\source\\repos\\gh\\moviedirectorwebapi\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|c:\\users\\ganesh.ampajalapu\\source\\repos\\gh\\moviedirectorwebapi\\dto\\movietempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23866EBD-E43C-4BBE-AC7F-509A7BE21B1E}|MovieDirectorWebApi.csproj|solutionrelative:dto\\movietempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 320,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ganesh.Ampajalapu\\source\\repos\\GH\\MovieDirectorWebApi\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Ganesh.Ampajalapu\\source\\repos\\GH\\MovieDirectorWebApi\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwHwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:53:35.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DirectorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ganesh.Ampajalapu\\source\\repos\\GH\\MovieDirectorWebApi\\Controllers\\DirectorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DirectorsController.cs",
+              "ToolTip": "C:\\Users\\Ganesh.Ampajalapu\\source\\repos\\GH\\MovieDirectorWebApi\\Controllers\\DirectorsController.cs",
+              "RelativeToolTip": "Controllers\\DirectorsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:42:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieTempDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ganesh.Ampajalapu\\source\\repos\\GH\\MovieDirectorWebApi\\DTO\\MovieTempDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\MovieTempDTO.cs",
+              "ToolTip": "C:\\Users\\Ganesh.Ampajalapu\\source\\repos\\GH\\MovieDirectorWebApi\\DTO\\MovieTempDTO.cs",
+              "RelativeToolTip": "DTO\\MovieTempDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:53:11.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

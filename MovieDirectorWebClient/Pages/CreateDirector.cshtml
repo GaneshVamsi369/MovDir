@@ -1,0 +1,20 @@
+﻿@page
+@model CreateDirectorModel
+@{
+    ViewData["Title"] = "Create Director";
+}
+
+<h1>Create a New Director</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Directors.Name"></label>
+        <input asp-for="Directors.Name" class="form-control" />
+        @* <label asp-for="Director.Movies"></label> *@
+        <input asp-for="Directors.Movies" class="form-control" type="hidden"/>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a asp-page="Index">Back to Movies</a>

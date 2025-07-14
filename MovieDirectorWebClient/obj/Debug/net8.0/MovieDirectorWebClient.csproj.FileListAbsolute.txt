@@ -1,0 +1,68 @@
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.AssemblyInfoInputs.cache
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.AssemblyInfo.cs
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.csproj.CoreCompileInputs.cache
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.RazorAssemblyInfo.cache
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.RazorAssemblyInfo.cs
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.sourcelink.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\appsettings.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.staticwebassets.runtime.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.staticwebassets.endpoints.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.exe
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.deps.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.runtimeconfig.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.dll
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.pdb
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\scopedcss\bundle\MovieDirectorWebClient.styles.css
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\scopedcss\projectbundle\MovieDirectorWebClient.bundle.scp.css
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.dll
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\refint\MovieDirectorWebClient.dll
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.pdb
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.genruntimeconfig.cache
+C:\Users\Akhil.Punna\Downloads\.Net traning\MovieDirectorWebClient\obj\Debug\net8.0\ref\MovieDirectorWebClient.dll
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\appsettings.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.staticwebassets.runtime.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.staticwebassets.endpoints.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.exe
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.deps.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.runtimeconfig.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.dll
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\bin\Debug\net8.0\MovieDirectorWebClient.pdb
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.AssemblyInfoInputs.cache
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.AssemblyInfo.cs
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.RazorAssemblyInfo.cache
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.RazorAssemblyInfo.cs
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.sourcelink.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\scopedcss\bundle\MovieDirectorWebClient.styles.css
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\scopedcss\projectbundle\MovieDirectorWebClient.bundle.scp.css
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.dll
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\refint\MovieDirectorWebClient.dll
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.pdb
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\MovieDirectorWebClient.genruntimeconfig.cache
+C:\Users\Ganesh.Ampajalapu\Source\Repos\GH\MovieDirectorWebClient\obj\Debug\net8.0\ref\MovieDirectorWebClient.dll
